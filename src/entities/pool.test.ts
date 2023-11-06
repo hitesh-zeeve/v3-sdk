@@ -1,4 +1,4 @@
-import { Token, CurrencyAmount, WETH9 } from '@uniswap/sdk-core'
+import { Token, CurrencyAmount, WETH9 } from '@hitesh.sharma_/sdk-core'
 import { FeeAmount, TICK_SPACINGS } from '../constants'
 import { nearestUsableTick } from '../utils/nearestUsableTick'
 import { TickMath } from '../utils/tickMath'
